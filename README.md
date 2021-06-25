@@ -14,6 +14,6 @@ A Frontend Engineer working on a project to help real estate agents create amazi
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've been programming since the 8th grade, 12/13 years old!
 
-[![FounderCasey's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foundercasey&layout=compact)](https://github.com/foundercasey/github-readme-stats) ![FounderCasey's GitHub stats](https://github-readme-stats.vercel.app/api?username=foundercasey&show_icons=true&theme=tokyonight&count_private=true)
+[![FounderCasey's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foundercasey&layout=compact&&langs_count=8)](https://github.com/foundercasey/github-readme-stats) ![FounderCasey's GitHub stats](https://github-readme-stats.vercel.app/api?username=foundercasey&show_icons=true&theme=tokyonight&count_private=true)
 
 
