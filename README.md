@@ -1,5 +1,5 @@
 ### Hi there, [I'm Casey](https://imcasey.com) 👋
-A Frontend Engineer working on a project to help real estate agents create amazing promotional videos for their listings in less than a minute.
+A Frontend Engineer working on Full Stack ideas with the Ethereum Blockchain.
 
 - 🔭 I’m currently working on [Promoso](https://promoso.io) - Pivoting into Eastway!
 - 🌱 I’m perpetually learning HTML, CSS, and JavaScript
@@ -8,6 +8,7 @@ A Frontend Engineer working on a project to help real estate agents create amazi
   - Vue
   - React
   - Web 3
+  - Solidity
   - Decentralization 
   - Indie Hacking
   - Community
