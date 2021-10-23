@@ -1,7 +1,7 @@
 ### Hi there, [I'm Casey](https://imcasey.com) 👋
 A Frontend Engineer working on Full Stack ideas with the Ethereum Blockchain.
 
-- 🔭 I’m currently working on [Promoso](https://promoso.io) - Pivoting into Eastway!
+- 🔭 I’m currently working on all kinds of Web3 Projects
 - 🌱 I’m perpetually learning HTML, CSS, and JavaScript
 - 💬 Ask me about:
   - JavaScript
