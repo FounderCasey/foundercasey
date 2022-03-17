@@ -2,11 +2,12 @@
 A Frontend Engineer working on Full Stack ideas with the Ethereum Blockchain.
 
 - 🥚 I’m currently working on [Hatchfi](https://hatchfi.co/), a developer API for connecting to any crypto exchange, wallet, account, or protocol.
-- 🌱 I’m perpetually learning HTML, CSS, and JavaScript
+- 🌱 I’m perpetually learning
 - 💬 Ask me about:
   - JavaScript
   - Vue
   - React
+  - Node
   - Web 3
   - Solidity
   - Decentralization 
