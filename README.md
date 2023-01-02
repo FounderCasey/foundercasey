@@ -2,6 +2,9 @@
 A Frontend Engineer working on Full Stack ideas with the Ethereum Blockchain.
 
 - 🥚 I’m currently working on [Hatchfi](https://hatchfi.co/), a developer API for connecting to any crypto exchange, wallet, account, or protocol.
+- I've built some cool projects:
+  - [UberTax](https://ubertax.xyz)
+  - [Kivo](https://kivo.so)
 - 🌱 I’m perpetually learning
 - 💬 Ask me about:
   - JavaScript
@@ -13,8 +16,8 @@ A Frontend Engineer working on Full Stack ideas with the Ethereum Blockchain.
   - Decentralization 
   - Indie Hacking
   - Community
-  - Parenting, I'm a dad of two!
-- 📫 How to reach me: caseywilcox@outlook.com - discord: Shib#7726
+  - Parenting, I'm a dad of two... with one on the way!
+- 📫 How to reach me: casey@hatchfi.co - discord: Shib#7726
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've been programming since the 8th grade, 12/13 years old!
 
