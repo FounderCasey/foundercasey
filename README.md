@@ -1,5 +1,5 @@
 ### Hi there, [I'm Casey](https://imcasey.com) 👋
-A Frontend Engineer working on Full Stack ideas with the Ethereum Blockchain.
+A Fullstack Engineer working on bridging the gap between web2 and web3.
 
 - 🥚 I’m currently working on [Hatchfi](https://hatchfi.co/), a developer API for connecting to any crypto exchange, wallet, account, or protocol.
 - I've built some cool projects:
