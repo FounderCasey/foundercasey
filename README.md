@@ -1,10 +1,10 @@
 ### Hi there, [I'm Casey](https://imcasey.com) 👋
 A Fullstack Engineer working on bridging the gap between web2 and web3.
 
-- 🥚 I’m currently working on [Hatchfi](https://hatchfi.co/), a developer API for connecting to any crypto exchange, wallet, account, or protocol.
+- 🥚 Built [Hatchfi](https://hatchfi.co/), a developer API for connecting to any crypto exchange, wallet, account, or protocol.
+- 🐂 Working on [Monitaur](https://monitaur.xyz), a Web3 Smart Contract and Wallet monitoring software to demystify what happens with your address or smart contract.
 - I've built some cool projects:
   - [UberTax](https://ubertax.xyz)
-  - [Kivo](https://kivo.so)
 - 🌱 I’m perpetually learning
 - 💬 Ask me about:
   - JavaScript
@@ -17,7 +17,7 @@ A Fullstack Engineer working on bridging the gap between web2 and web3.
   - Indie Hacking
   - Community
   - Parenting, I'm a dad of two... with one on the way!
-- 📫 How to reach me: casey@hatchfi.co - discord: Shib#7726
+- 📫 How to reach me: casey@monitaur.xyz - discord: Shib#7726
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've been programming since the 8th grade, 12/13 years old!
 
